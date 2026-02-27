@@ -4,7 +4,7 @@ fn main() {
     let season: &str = "winter";
     let mut points_scored = 28;
     points_scored = 35;
-    #[]
+    #[allow(unused_variables)]
     let favorite_drink = "suco de acerola";
 
     let event_time: &str = "06:00"; 
