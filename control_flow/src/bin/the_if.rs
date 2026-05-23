@@ -1,5 +1,4 @@
 fn main() {
-    
     let cond = true;
 
     if cond {

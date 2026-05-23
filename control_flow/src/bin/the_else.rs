@@ -1,5 +1,4 @@
 fn main() {
-
     let season = "spring";
 
     if season == "summer" {
@@ -9,5 +8,4 @@ fn main() {
     } else {
         println!("Lots of rain!");
     }
-    
 }
